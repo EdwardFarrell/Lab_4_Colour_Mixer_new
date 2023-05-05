@@ -1,0 +1,5 @@
+ROOT=.
+TARGET=LPC1768
+TARGET_CODE=1010
+DEVICE_ID[/home/studio/workspace/Lab 4 Colour Mixer]=101000000000000000000002F7F47CAE
+DEVICE_TYPE[/home/studio/workspace/Lab 4 Colour Mixer]=connected
